@@ -1,0 +1,6 @@
+header div:first-child{padding: 5%; background: blue; width: 30%; float: left;}
+header div:nth-child(2){padding: 5%; background: green; width: 30%; float: left;}
+header div:nth-child(3){padding: 4%; background: yellow; width: 100%; float: right;}
+header div:nth-child(4){padding: 5%; background: black; width: 35%; float: left;}
+header div:nth-child(5){padding: 5%; background: red; width: 35%; float: left;}
+.clear{clear:both;}
